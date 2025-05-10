@@ -25,6 +25,14 @@ O notebook [`Aula_ML.ipynb`](https://github.com/GriseldaJusto/Projeto_ML/blob/ma
 - ImageDataGenerator
 - Dataset personalizado
 
+## 📂 Dataset
+O dataset utilizado para este projeto está disponível no Google Drive. Você pode acessá-lo através do seguinte link:
+[Dataset no Google Drive](https://drive.google.com/drive/folders/1mOOMgLRXGoB0yo-X1IahL48pjtGVff2T?usp=sharing).
+
+O dataset é organizado em duas pastas:
+- mulher-preta: Contém imagens de mulheres negras.
+- mulher-branca: Contém imagens de mulheres brancas.
+
 ## ▶️ Como Executar
 
 1. Acesse o [Google Colab](https://colab.research.google.com/).
