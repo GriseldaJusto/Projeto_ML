@@ -42,7 +42,6 @@ O dataset é organizado em duas pastas:
 
 ## 📌 Observações
 
-- O dataset usado é particular e organizado manualmente em duas classes: `mulher-preta` e `mulher-branca`.
 - O modelo foi treinado com um número reduzido de imagens, então os resultados podem ser aprimorados com mais dados e ajustes de parâmetros.
 
 ---
